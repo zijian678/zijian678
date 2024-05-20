@@ -1,17 +1,19 @@
-### Hi there 👋
-1123
+# Zijian Feng
 
-<!--
-**zijian678/zijian678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD candidate at Nanyang Technological University (NTU), Singapore. I am interested in Natural Language Processing and Machine Learning, specifically the interpretability and controllability of Large Language Models.
 
-Here are some ideas to get you started:
+## Recent Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation. ACL 2024. [To appear coon]
+
+Unveiling and Manipulating Prompt Influence in Large Language Models. ICLR 2024. [Paper](https://openreview.net/pdf?id=ap1ByuwQrX) [Code](https://github.com/zijian678/TDD)
+
+PromptExplainer: Explaining Language Models through Prompt-based Learning. EACL 2024. [Paper](https://aclanthology.org/2024.findings-eacl.60/) [Code](https://github.com/zijian678/PromptExplainer)
+
+## Collaborations
+
+Heuristic-Driven Link-of-Analogy Prompting: Enhancing Large Language Models for Document-Level Event Argument Extraction. ACL 2024. [Paper](https://arxiv.org/abs/2311.06555)
+
+EDEntail: An Entailment-based Few-shot Text Classification with Extensional Definition. NAACL 2024. [To appear coon]
+
+Closed Boundary Learning for Classification Tasks with the Universum Class. EMNLP 2023. [Paper](https://aclanthology.org/2023.findings-emnlp.1038/)
