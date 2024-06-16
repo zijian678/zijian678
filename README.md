@@ -5,7 +5,7 @@ I am a PhD candidate at Nanyang Technological University (NTU), Singapore. My re
 ## Recent Publications
 
 - **FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation**
-  - *ACL 2024*. [To appear soon]|[Code](https://github.com/zijian678/FreeCtrl)
+  - *ACL 2024*. [To appear soon] | [Code](https://github.com/zijian678/FreeCtrl)
 
 - **Unveiling and Manipulating Prompt Influence in Large Language Models**
   - *ICLR 2024*. [Paper](https://openreview.net/pdf?id=ap1ByuwQrX) | [Code](https://github.com/zijian678/TDD)
