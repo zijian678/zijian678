@@ -24,5 +24,5 @@ I am a PhD candidate at Nanyang Technological University (NTU), Singapore. My re
 - **Closed Boundary Learning for Classification Tasks with the Universum Class**
   - *EMNLP 2023*. [Paper](https://aclanthology.org/2023.findings-emnlp.1038/)
 
-  ## Contact
-  feng0119@e.ntu.edu.sg
+## Contact
+feng0119@e.ntu.edu.sg
