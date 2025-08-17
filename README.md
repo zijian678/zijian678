@@ -4,8 +4,14 @@ I am a PhD candidate at Nanyang Technological University (NTU), Singapore. My re
 
 ## Recent Publications
 
+- **Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**
+  - *NAACL 2025*. [Paper](https://arxiv.org/abs/2504.03159) | [Code](https://github.com/qianjunlang/PlaceholdingParallelPrediction)
+
+- **Logit Separability-Driven Samples and Multiple Class-Related Words Selection for Advancing In-Context Learning**
+  - *NAACL 2025*. [Paper](https://aclanthology.org/2025.naacl-long.343.pdf) | [Code](https://github.com/MidiyaZhu/MICL)
+
 - **UniBias: Unveiling and Mitigating LLM Bias through Internal Attention and FFN Manipulation**
-  - *NeurIPS 2024*. [Paper](https://arxiv.org/abs/2405.20612)
+  - *NeurIPS 2024*. [Paper](https://arxiv.org/abs/2405.20612) | [Code](https://github.com/hzzhou01/UniBias)
 
 - **FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation**
   - *ACL 2024*. [Paper](https://arxiv.org/abs/2406.09688) | [Code](https://github.com/zijian678/FreeCtrl)
