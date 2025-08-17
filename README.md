@@ -1,6 +1,6 @@
 # Zijian Feng
 
-I am a PhD candidate at Nanyang Technological University (NTU), Singapore. My research focuses on Natural Language Processing and Machine Learning, with a particular interest in the interpretability and controllability of Large Language Models.
+I received my Ph.D. from Nanyang Technological University (NTU), Singapore, in collaboration with the Singapore-ETH Centre, ETH Zurich. My research focuses on Natural Language Processing and Machine Learning, with a particular emphasis on the interpretability and controllability of Large Language Models (LLMs) and Multi-Modal LLMs.
 
 ## Recent Publications
 
