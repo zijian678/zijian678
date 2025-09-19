@@ -6,7 +6,7 @@ I received my Ph.D. from **Nanyang Technological University (NTU)**, Singapore, 
 
 ## 🔬 Recent Publications
 
-- ** Restoring Pruned Large Language Models via Lost Component Compensation**  
+- **Restoring Pruned Large Language Models via Lost Component Compensation**  
   *NeurIPS 2025 Spotlight* 
 
 - **Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**  
