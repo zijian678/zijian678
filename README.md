@@ -6,8 +6,11 @@ I received my Ph.D. from **Nanyang Technological University (NTU)**, Singapore, 
 
 ## 🔬 Recent Publications
 
+- **Fine-Grained Activation Steering: Steering Less, Achieving More**  
+  *ICLR 2026* · [📄 Paper](https://openreview.net/forum?id=guSVafqhrB) · [💻 Code](https://github.com/zijian678/restorelcc/)
+
 - **Restoring Pruned Large Language Models via Lost Component Compensation**  
-  *NeurIPS 2025 Spotlight* [📄 Paper](https://arxiv.org/abs/2510.21834) · [💻 Code](https://github.com/zijian678/restorelcc/)
+  *NeurIPS 2025 Spotlight* · [📄 Paper](https://arxiv.org/abs/2510.21834) · [💻 Code](https://github.com/zijian678/restorelcc/)
 
 - **Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**  
   *NAACL 2025* · [📄 Paper](https://arxiv.org/abs/2504.03159) · [💻 Code](https://github.com/qianjunlang/PlaceholdingParallelPrediction)
