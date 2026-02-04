@@ -7,7 +7,7 @@ I received my Ph.D. from **Nanyang Technological University (NTU)**, Singapore, 
 ## 🔬 Recent Publications
 
 - **Restoring Pruned Large Language Models via Lost Component Compensation**  
-  *NeurIPS 2025 Spotlight* 
+  *NeurIPS 2025 Spotlight* [📄 Paper](https://arxiv.org/abs/2510.21834) · [💻 Code](https://github.com/zijian678/restorelcc/)
 
 - **Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**  
   *NAACL 2025* · [📄 Paper](https://arxiv.org/abs/2504.03159) · [💻 Code](https://github.com/qianjunlang/PlaceholdingParallelPrediction)
